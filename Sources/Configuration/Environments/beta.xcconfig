@@ -1,0 +1,4 @@
+APPLICATION_NAME = PluggableAppDelegate BETA
+BUNDLE_ID = com.jem.PluggableAppDelegate.beta
+VERSION_NUMBER = 0.0.0
+BUILD_NUMBER = 0
